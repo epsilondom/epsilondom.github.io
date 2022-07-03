@@ -1,123 +1,37 @@
 ---
 layout: default
 ---
+## Biography
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am currently a first-year CS graduate student at UCLA, advised by [**Prof. Chenfanfu Jiang**](https://www.math.ucla.edu/~cffjiang/). I obtained my B.Eng. degree in Software Engineering from Shanghai Jiao Tong University. Prior to UCLA, I spent a gap year working as a research intern in Bytedance AI Lab. I also did a research internship in 2019, advised by [**Prof. Dongwon Lee**](https://pike.psu.edu/dongwon/). My current research interest focuses on physics-based simulation and machine learning. 
 
-[Link to another page](./another-page.html).
+Here is my [CV](./assets/file/Tianyi%20Xie%20CV.pdf).
 
-There should be whitespace between paragraphs.
+## Publications
+### Towards Realistic Visual Dubbing with Heterogeneous Sources
+<font size=2 > <b>Tianyi Xie</b>, Liucheng Liao, Cheng Bi, Benlai Tang, Xiang Yin, Jianfei Yang, Mingjie Wang, Jiali Yao, Zejun Ma<br>  
+<i>ACM International Conference on Multimedia (ACM MM), 2021</i> <a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475318">[paper]</a></font>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### CHECKER: Detecting Clickbait Thumbnails with Weak Supervision and Co-teaching  
+<font size=2 > <b>Tianyi Xie</b>, Thai Le, Dongwon Lee<br>  
+<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2021</i> <a href="https://dl.acm.org/doi/abs/10.1007/978-3-030-86517-7_26">[paper]</a><br><br></font>
 
-# Header 1
+## Experiences
+[**MultiPLES Lab, University of California, Los Angeles**](https://multiples-lab.github.io/)   
+Research Assistant  
+Feb, 2022 - Present
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[**Bytedance AI Lab, Shanghai**](https://ailab.bytedance.com/)  
+Research Intern  
+Mar, 2021 - Jul, 2021
 
-## Header 2
+[**Bytedance AI Lab, Shanghai**](https://ailab.bytedance.com/)  
+Research Intern  
+Apr, 2020 - Nov, 2020  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[**The PIKE Group, The Pennsylvania State University**](https://pike.psu.edu/)  
+Research Assistant  
+Jul, 2019 - Nov, 2019  
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://github.com/vaibhavvikas/vaibhavvikas/raw/main/src/header_.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Miscellaneous
+I love animation and fingerstyle guitar.

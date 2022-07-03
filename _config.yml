@@ -1,7 +1,7 @@
 title: Tianyi Xie
 logo: /assets/img/logo.jpg
-email: tianyixie77@ucla.edu
-description: Minimalistic is a theme powered by Jekyll.
+email: tianyixie77 [AT] ucla.edu
+description: 
 favicon: true
 color-scheme: light
 
@@ -14,18 +14,18 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/XPandora
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/tianyi-xie-784230189/
 
-navigation:
-  - name: Readme
-    link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+# navigation:
+#   - name: Readme
+#     link: ./index.html
+#     sublist:
+#       - name: Image
+#         link: ./index.html#small-image
+#   - name: Another Page
+#     link: ./another-page.html
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
