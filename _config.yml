@@ -1,9 +1,9 @@
-title: Minimalistic theme
+title: Tianyi Xie
 logo: /assets/img/logo.jpg
-email: something@somewhere.com
+email: tianyixie77@ucla.edu
 description: Minimalistic is a theme powered by Jekyll.
 favicon: true
-color-scheme: auto
+color-scheme: light
 
 plugins:
   - jekyll-sitemap
