@@ -3,7 +3,7 @@ layout: default
 ---
 ## Biography
 
-I am currently a first-year CS graduate student at UCLA, advised by [**Prof. Chenfanfu Jiang**](https://www.math.ucla.edu/~cffjiang/). I obtained my B.Eng. degree in Software Engineering from Shanghai Jiao Tong University. Prior to UCLA, I spent a gap year working as a research intern in Bytedance AI Lab. I also did a research internship in 2019, advised by [**Prof. Dongwon Lee**](https://pike.psu.edu/dongwon/). My current research interest focuses on physics-based simulation and machine learning. 
+I am currently a first-year CS graduate student at UCLA, advised by [**Prof. Chenfanfu Jiang**](https://www.math.ucla.edu/~cffjiang/). I obtained my B.Eng. degree in Software Engineering from Shanghai Jiao Tong University. Prior to UCLA, I spent a gap year working as a research intern in Bytedance AI Lab. I also did a research internship at the Pennsylvania State University in 2019, advised by [**Prof. Dongwon Lee**](https://pike.psu.edu/dongwon/). My current research interest focuses on physics-based simulation and machine learning. 
 
 Here is my [CV](./assets/file/Tianyi%20Xie%20CV.pdf).
 
