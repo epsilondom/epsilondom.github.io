@@ -1,7 +1,7 @@
-title: Tianyi Xie
-logo: /assets/img/tianyixie.JPG
-description: CS graduate student at UCLA
-email: tianyixie77@g.ucla.edu
+title: Zhenyu Liu
+logo: /assets/img/uestc.jpeg
+description: Software Engineering undergraduate student at UESTC
+email: lzy001225@outlook.com
 favicon: true
 color-scheme: light
 
@@ -14,10 +14,7 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/XPandora
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/tianyi-xie-784230189/
+    link: https://github.com/epsilondom
 
 # navigation:
 #   - name: Readme
