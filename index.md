@@ -3,35 +3,28 @@ layout: default
 ---
 ## Biography
 
-I am currently a first-year CS graduate student at UCLA, advised by [**Prof. Chenfanfu Jiang**](https://www.math.ucla.edu/~cffjiang/). I obtained my B.Eng. degree in Software Engineering from Shanghai Jiao Tong University. Prior to UCLA, I spent a gap year working as a research intern in Bytedance AI Lab. I also did a research internship at the Pennsylvania State University in 2019, advised by [**Prof. Dongwon Lee**](https://pike.psu.edu/dongwon/). My current research interest focuses on physics-based simulation and machine learning. 
+I am currently an undergraduate student in Software Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).My current research interests include neural network compression, efficient deep learning, FPGA, and federated learning.
 
-Here is my [CV](./assets/file/Tianyi%20Xie%20CV.pdf).
+Here is my [CV](./assets/file/CV.pdf).
 
 ## Publications
-### Towards Realistic Visual Dubbing with Heterogeneous Sources
-<font size=2 > <b>Tianyi Xie</b>, Liucheng Liao, Cheng Bi, Benlai Tang, Xiang Yin, Jianfei Yang, Mingjie Wang, Jiali Yao, Zejun Ma<br>  
-<i>ACM International Conference on Multimedia (ACM MM), 2021</i> <a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475318">[paper]</a></font>
+### Self-Organizing and Parallel-Process Driven Fast Generation of Adversarial Examples for 3D Point Clouds
+<font size=2 > Wei Jiang, Chen Bian, Jinyu Zhan, <b>Zhenyu Liu</b>, Hong Lei, Ziwei Song and Xiangyu Wen<br>  
+<i>Design Automation Conference 2022 - Poster</i> <a href="./assets/file/DAC-Poster.pdf">[paper]</a></font>
 
-### CHECKER: Detecting Clickbait Thumbnails with Weak Supervision and Co-teaching  
-<font size=2 > <b>Tianyi Xie</b>, Thai Le, Dongwon Lee<br>  
-<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2021</i> <a href="https://dl.acm.org/doi/abs/10.1007/978-3-030-86517-7_26">[paper]</a><br><br></font>
+## Selected Projects
+**Quantization and Efficient Deployment of Neural Networks**
+This project is to deploy a NN for analyzing radar echoes on a hardware platform with limited computing resources. We complete the quantization of the NN and the hardware implementation. After verifying the project on Xilinx's Zynq UltraScale+ MPSoC ZCU102 board, we furtherly deploy it on ZED-7020. Finally,we can reduce both the energy consumption and thecircuit areas significantly without affecting the performance. 
 
 ## Experiences
-[**MultiPLES Lab, University of California, Los Angeles**](https://multiples-lab.github.io/)   
+[**PEILab, The Hong Kong Polytechnic University**](http://peilab.comp.polyu.edu.hk/)   
 Research Assistant  
-Feb, 2022 - Present
+Nov, 2022 - Present
 
-[**Bytedance AI Lab, Shanghai**](https://ailab.bytedance.com/)  
-Research Intern  
-Mar, 2021 - Jul, 2021
 
-[**Bytedance AI Lab, Shanghai**](https://ailab.bytedance.com/)  
-Research Intern  
-Apr, 2020 - Nov, 2020  
-
-[**The PIKE Group, The Pennsylvania State University**](https://pike.psu.edu/)  
+**MobileAI Lab, University of Electronic Science and Technology of China**  
 Research Assistant  
-Jul, 2019 - Nov, 2019  
+Jun, 2021 - Oct, 2022
 
 ## Miscellaneous
-I love animation and fingerstyle guitar.
+Like the gym most, good at basketball. I also like clarinet and piano very much.
