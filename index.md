@@ -15,6 +15,8 @@ Here is my [CV](./assets/file/CV.pdf).
 ## Selected Projects
 **Quantization and Efficient Deployment of Neural Networks**
 
+<p align="center"><img src="/assets/img/project1.png" alt="project1" style="zoom:50%;"></p>
+
 This project is to deploy a NN for analyzing radar echoes on a hardware platform with limited computing resources. We complete the quantization of the NN and the hardware implementation. After verifying the project on Xilinx's Zynq UltraScale+ MPSoC ZCU102 board, we furtherly deploy it on ZED-7020. Finally,we can reduce both the energy consumption and thecircuit areas significantly without affecting the performance. 
 
 ## Experiences
