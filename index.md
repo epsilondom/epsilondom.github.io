@@ -10,7 +10,8 @@ Here is my [CV](./assets/file/CV.pdf).
 ## Publications
 ### Self-Organizing and Parallel-Process Driven Fast Generation of Adversarial Examples for 3D Point Clouds
 <font size=2 > Wei Jiang, Chen Bian, Jinyu Zhan, <b>Zhenyu Liu</b>, Hong Lei, Ziwei Song and Xiangyu Wen<br>  
-<i>Design Automation Conference 2022 - Poster</i> <a href="./assets/file/DAC-Poster.pdf">[paper]</a></font>
+<i>Design Automation Conference 2022 - Poster</i> <a href="./assets/file/DAC-Poster.pdf">[paper]</a></font>  
+
   
   
 ## Selected Projects
