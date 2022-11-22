@@ -12,8 +12,10 @@ Here is my [CV](./assets/file/CV.pdf).
 <font size=2 > Wei Jiang, Chen Bian, Jinyu Zhan, <b>Zhenyu Liu</b>, Hong Lei, Ziwei Song and Xiangyu Wen<br>  
 <i>Design Automation Conference 2022 - Poster</i> <a href="./assets/file/DAC-Poster.pdf">[paper]</a></font>
 
+
 ## Selected Projects
 **Quantization and Efficient Deployment of Neural Networks**
+
 This project is to deploy a NN for analyzing radar echoes on a hardware platform with limited computing resources. We complete the quantization of the NN and the hardware implementation. After verifying the project on Xilinx's Zynq UltraScale+ MPSoC ZCU102 board, we furtherly deploy it on ZED-7020. Finally,we can reduce both the energy consumption and thecircuit areas significantly without affecting the performance. 
 
 ## Experiences
